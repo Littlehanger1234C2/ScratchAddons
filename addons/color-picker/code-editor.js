@@ -54,7 +54,7 @@ export default async ({ addon, console, msg }) => {
     const saColorPickerColor = Object.assign(document.createElement("input"), {
       className: "sa-color-picker-color sa-color-picker-code-color",
       type: "color",
-      value: defaultColor || "#000000",
+      value: defaultColor || "#808080",
     });
     const saColorPickerText = Object.assign(document.createElement("input"), {
       className: "sa-color-picker-text sa-color-picker-code-text",
