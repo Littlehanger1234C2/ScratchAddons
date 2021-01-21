@@ -60,9 +60,9 @@
        stroke-linejoin="miter"
        stroke-linecap="butt"
        stroke-width="1"
-       stroke="#d89400"
+       stroke="#008000"
        fill-rule="nonzero"
-       fill="#ffae00"
+       fill="#00ff00"
        data-paper-data="{&quot;isPaintingLayer&quot;:true}">
       <path
          id="path2"
