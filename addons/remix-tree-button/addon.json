@@ -26,7 +26,7 @@
       "name": "Button Color",
       "id": "buttonColor",
       "type": "color",
-      "default": "#4d97ff"
+      "default": "#80ff80"
     }
   ],
   "l10n": true
